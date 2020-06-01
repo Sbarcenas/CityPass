@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>121840301814-suf340a1ausid8k317q51n73bukd78l5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.121840301814-suf340a1ausid8k317q51n73bukd78l5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>121840301814-7ij9jq3tjhcvc2j0f4l1oi4902mb3jvv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4y3pqyXggKZPTfyakQd636LNB9kd0v-U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121840301814</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.e-me.cityprime</string>
+	<key>PROJECT_ID</key>
+	<string>cityprime-51640</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cityprime-51640.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121840301814:ios:d4bb8504218a116c</string>
+	<key>DATABASE_URL</key>
+	<string>https://cityprime-51640.firebaseio.com</string>
+</dict>
+</plist>

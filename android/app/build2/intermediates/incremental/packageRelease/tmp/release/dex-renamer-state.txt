@@ -1,0 +1,7 @@
+#Fri Aug 23 10:33:59 COT 2019
+base.0=/Users/jesusdiaz/Projects/react-native/app-react-native-v2/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/jesusdiaz/Projects/react-native/app-react-native-v2/android/app/build/intermediates/transforms/dexMerger/release/0
