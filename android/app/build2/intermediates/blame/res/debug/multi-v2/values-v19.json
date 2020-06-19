@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jesusdiaz/Projects/react-native/app-react-native-v2/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/jesusdiaz/.gradle/caches/transforms-2/files-2.1/62bb1d6603cc9945751f54f03c40a775/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "857"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "252",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1009"
+                    }
+                },
+                {
+                    "source": "/Users/jesusdiaz/.gradle/caches/transforms-2/files-2.1/ba89c990babe3b441498e7bfbf942671/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,127",
+                        "endColumns": "71,79",
+                        "endOffsets": "122,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,172",
+                        "endColumns": "71,79",
+                        "endOffsets": "167,247"
+                    }
+                }
+            ]
+        }
+    ]
+}

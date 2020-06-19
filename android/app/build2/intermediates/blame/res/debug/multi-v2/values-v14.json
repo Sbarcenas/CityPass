@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/jesusdiaz/Projects/react-native/app-react-native-v2/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/jesusdiaz/.gradle/caches/transforms-2/files-2.1/2bbe2ea19b19b782b55fe2d12fe86288/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "605"
+                    }
+                }
+            ]
+        }
+    ]
+}

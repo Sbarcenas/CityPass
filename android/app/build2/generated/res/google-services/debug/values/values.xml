@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">121840301814-c3dqok5gf4eeisud16ls8k517hi3orog.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cityprime-51640.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">121840301814</string>
+    <string name="google_api_key" translatable="false">AIzaSyCAgGgf9ngVDX1Q54zY8JJCcOve2Yp3hwg</string>
+    <string name="google_app_id" translatable="false">1:121840301814:android:e25d9022c98253fb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCAgGgf9ngVDX1Q54zY8JJCcOve2Yp3hwg</string>
+    <string name="google_storage_bucket" translatable="false">cityprime-51640.appspot.com</string>
+    <string name="project_id" translatable="false">cityprime-51640</string>
+</resources>

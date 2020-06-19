@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "121840301814",
+    "firebase_url": "https://cityprime-51640.firebaseio.com",
+    "project_id": "cityprime-51640",
+    "storage_bucket": "cityprime-51640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121840301814:android:e25d9022c98253fb",
+        "android_client_info": {
+          "package_name": "com.cityprimeandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121840301814-7ij9jq3tjhcvc2j0f4l1oi4902mb3jvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cityprimeandroid",
+            "certificate_hash": "ef44b17003f0d60b806c2d1988286073a0a47bbe"
+          }
+        },
+        {
+          "client_id": "121840301814-c3dqok5gf4eeisud16ls8k517hi3orog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgGgf9ngVDX1Q54zY8JJCcOve2Yp3hwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121840301814-c3dqok5gf4eeisud16ls8k517hi3orog.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121840301814-k9lqoq0nv0hglqjvtbte2hnci8vpa7bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.e-me.dev.CityprimeV2",
+                "app_store_id": "1451198964"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Cityprime' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for Cityprime
+  # Required by RNFirebase
+  pod 'Firebase/Core', '~> 5.15.0'
+  pod 'Firebase/DynamicLinks', '~> 5.15.0'
+
+  target 'Cityprime-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'react-native-camera', :path => '../node_modules/react-native-camera'
+
+  end
+
+  target 'CityprimeTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'Cityprime-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for Cityprime-tvOS
+
+  # target 'Cityprime-tvOSTests' do
+  #   inherit! :search_paths
+  #   # Pods for testing
+  # end
+
+end
