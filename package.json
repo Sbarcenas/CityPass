@@ -21,7 +21,7 @@
     "generator-rn-toolbox": "^3.9.0",
     "moment": "^2.23.0",
     "numeral": "^2.0.6",
-    "plist": "^3.0.1",
+    "plist": "^3.0.4",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
     "react-instantsearch": "^5.7.0",
